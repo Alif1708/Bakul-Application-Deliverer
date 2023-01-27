@@ -1,3 +1,3 @@
-# bakul_delivery
+# Bakul_Application_Deliverer
 
-workshop 2 project
+Part of PSM 2 project for Bakul Application. This is Deliverer part. 4/4
